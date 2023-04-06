@@ -1,0 +1,1 @@
+{"EnemyName":"Spider","Health":1,"MoveSpeed":1.5,"AttackPower":2.5,"CanFly":false,"EnemyType":0}
